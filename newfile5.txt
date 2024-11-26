@@ -1,1 +1,2 @@
 git sudy new file 5
+i'm fixed this file
